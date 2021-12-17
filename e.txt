@@ -1,6 +1,0 @@
-E file
-second line
-adding third line
-adding forth line
-
-ignore file testing
