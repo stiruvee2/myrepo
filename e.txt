@@ -1,2 +1,4 @@
 E file
-second line 
+second line
+adding third line
+ 
